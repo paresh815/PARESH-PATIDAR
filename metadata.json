@@ -1,0 +1,7 @@
+{
+  "name": "Hotspot Auth & Monitor",
+  "description": "Android Hotspot user authentication, captive portal login management, Room database logging, and Jetpack Compose monitoring dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
